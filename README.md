@@ -2,6 +2,11 @@ Hi, Welcome To My Github Profile 👋 👋 👋
 
 I'm Fatih, I'm a Software Developer. I am sharing my projects here. I usually use the C-Sharp programming language for Back-End projects.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByFatiq&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByFatiq&hide_progress=true)](https://github.com/ByFatiq/github-readme-stats)
+
+
 <p dir="auto" googl="true" align="center">
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" rel="nofollow">
         <img src="https://camo.githubusercontent.com/be406e7fcc11cd6204d544a8e1e3a168cd57a6fbf1d3b455830feeb85ef1ec76/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6373686172702f6373686172702d6f726967696e616c2e737667"
