@@ -19,9 +19,9 @@
             data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
             style="max-width: 100%;" height="50"> </a>    
     <a href="https://www.microsoft.com/en-us/sql-server" rel="nofollow">
-        <img src="https://camo.githubusercontent.com/b860fe6f5f4d9f3880120f97632a55da352dd3e6c7ec6a1d40d9c97a1f98969f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6963726f736f667473716c7365727665722f6d6963726f736f667473716c7365727665722d706c61696e2e737667"
+        <img src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/microsoft-sql-server.png"
             alt="microsoftsqlserver logo"
-            data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
+            data-canonical-src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/microsoft-sql-server.png"
             style="max-width: 100%; background-color: blue;" height="50"> </a>
     <a href="https://code.visualstudio.com/" rel="nofollow">
         <img src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667"
