@@ -1,6 +1,9 @@
 # Hi, Welcome To My Github Profile 👋 👋 👋
 
-### I'm Fatih, I'm a Software Developer. I am sharing my projects here. I usually use the C-Sharp programming language for Back-End projects.
+### I'm Fatih, I'm a Software Developer. 
+### I am sharing my projects here. I usually use the C-Sharp programming language for Back-End projects.
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatihCrk&show_icons=true&theme=radical)
 
