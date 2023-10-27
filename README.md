@@ -1,7 +1,7 @@
 # Hi, Welcome To My Github Profile 👋 👋 👋
 
-### I'm Fatih, I'm a Software Developer. 
-### I am sharing my projects here. I usually use the C-Sharp programming language for Back-End projects.
+### My name is Fatih, and I work as a Software Developer.
+###  I would like to share my projects here, primarily focusing on Back-End development using the C# programming language.
 
 
 
